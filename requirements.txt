@@ -1,0 +1,4 @@
+sentence-transformers
+protobuf==3.20.0
+scipy
+tqdm
